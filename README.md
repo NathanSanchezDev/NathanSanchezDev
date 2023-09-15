@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS, and Express**
 
-- 👯 I’m looking to collaborate on [A new trendy website](https://github.com/NathanSanchezDev/ZenMobileEcom)
-
 - 👨‍💻 All of my projects are available at [nathanswe.com](nathanswe.com)
 
 - 📝 I regularly write articles on [nathanswe.com/blog](nathanswe.com/blog)
