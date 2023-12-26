@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nathan Sanchez</h1>
 <h3 align="center">A passionate full-stack developer from United States</h3>
 
-- 🔭 I’m currently working on [A e-commerce site](https://github.com/NathanSanchezDev/BellesBonsaiMarket)
-
-- 🌱 I’m currently learning **ReactJS, NodeJS, and Express**
+- 🌱 I’m currently learning **Cloud Computing, Python, and Django**
 
 - 👨‍💻 All of my projects are available at [nathanswe.com](nathanswe.com)
 
 - 📝 I regularly write articles on [nathanswe.com/blog](nathanswe.com/blog)
-
-- 💬 Ask me about **JavaScript, Bootstrap, JQuery**
 
 - 📫 How to reach me **nathan1220sanchez@gmail.com**
 
