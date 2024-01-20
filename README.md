@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Python, and Django**
 
-- 👨‍💻 All of my projects are available at [nathanswe.com](nathanswe.com)
+- 👨‍💻 All of my projects are available at [nathanswe.com](https://nathans.vercel.app/)
 
-- 📝 I regularly write articles on [nathanswe.com/blog](nathanswe.com/blog)
+- 📝 I regularly write articles on [nathanswe.com/blog](https://nathans.vercel.app/blog)
 
 - 📫 How to reach me **nathan1220sanchez@gmail.com**
 
-- 📄 Know about my experiences [nathanswe.com/resume](nathanswe.com/resume)
+- 📄 Know about my experiences [nathanswe.com/resume](https://nathans.vercel.app/resume)
 
 - ⚡ Fun fact **My hair color makes me about 2% of the world's population.**
 
