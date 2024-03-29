@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nathan Sanchez</h1>
 <h3 align="center">A passionate full-stack developer from United States</h3>
 
-- 🌱 I’m currently learning **Cloud Computing, Python, and Django**
+- 🌱 I’m currently learning **CSharp, .NET, and Blazor**
 
 - 👨‍💻 All of my projects are available at [nathanswe.com](https://nathans.vercel.app/)
-
-- 📝 I regularly write articles on [nathanswe.com/blog](https://nathans.vercel.app/blog)
 
 - 📫 How to reach me **nathan1220sanchez@gmail.com**
 
