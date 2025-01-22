@@ -23,9 +23,10 @@
 ### About Me
 
 - 🌱 I’m currently honing my skills in **CSharp, .NET, Blazor**, and cloud deployments  
-- 👨‍💻 All of my projects are available at [nathanswe.com](https://nathans.vercel.app/)  
+- 👨‍💻 All of my projects are available at [nathanswe.com](https://nathanswe.com/)  
 - 📫 Reach me at **nathan1220sanchez@gmail.com**  
-- 📄 View my résumé: [nathanswe.com/resume](https://nathans.vercel.app/resume)  
+- 📄 View my résumé: [nathanswe.com/resume](https://nathanswe.com/resume)
+- 📝 View my blog: [nathanswe.com/blog](https://nathanswe.com/blog)  
 - ⚡ Fun fact: **My hair color makes me about 2% of the world's population.**
 
 ---
