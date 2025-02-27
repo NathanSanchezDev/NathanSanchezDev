@@ -38,24 +38,3 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-
-## 🌱 Currently Learning
-
-- Distributed Systems
-- Microservices Architecture
-- System Design and Scalability
-- Cloud Infrastructure and Management
-- Advanced Networking Concepts
-
-## 💼 Professional Experience
-
-- Software Engineer at Fischer Identity
-- Full Stack Developer at Adaptive Computing
-
-## 📫 How to Reach Me
-
-- **Email:** [ns.dev.contact@gmail.com](mailto:ns.dev.contact@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nathansanchez239](https://www.linkedin.com/in/nathansanchez239)
-- **GitHub:** [github.com/NathanSanchezDev](https://github.com/NathanSanchezDev)
-- **Personal Website:** [nathanswe.com](https://nathanswe.com)
-- **Blog:** [nathanswe.com/blog](https://nathanswe.com/blog)
