@@ -1,3 +1,36 @@
+# Nathan Sanchez
+## Software Engineer specializing in distributed systems and observability
+
+Backend engineer with experience in HPC infrastructure and identity management systems. Currently focusing on Go-based observability tools and cloud-native application development.
+
+## 🔭 Current Focus
+
+Building distributed systems and cloud-native applications with a focus on:
+- Observability platforms
+- Kubernetes-based deployments
+- Go microservices
+- Systems engineering for high-performance computing
+
+## 📂 Featured Projects
+
+### Go-Insight
+An observability platform built in Go for distributed systems monitoring
+- **Tech Stack**: Go, PostgreSQL, Docker, Kubernetes
+- **Features**: Logging, metrics collection, distributed tracing
+- [Repository Link](https://github.com/NathanSanchezDev/go-insight)
+
+### AI Helper Library
+A .NET library for seamless integration with OpenAI and Anthropic APIs
+- **Tech Stack**: C#, .NET 8
+- **Features**: Multi-provider support, dynamic prompting, retry handling
+- [Repository Link](https://github.com/NathanSanchezDev/ai-helper-library)
+
+## 💼 Professional Journey
+
+- Software Engineer at **Fischer Identity** (Apr 2024 - Present)
+- Full-Stack Developer at **Adaptive Computing** (Nov 2023 - Apr 2024)
+- Software Engineer Trainee at **100Devs** (Sep 2022 - Oct 2023)
+
 ## 🚀 Skills
 
 ### Languages
@@ -38,3 +71,18 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Nathan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanSanchezDev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanSanchezDev&layout=compact&theme=radical)
+
+## 📝 Latest Blog Post
+
+[Building Go-Insight: A Distributed Observability System in Go](https://www.nathanswe.com/blog/building-go-insight)
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Website](https://img.shields.io/badge/-Website-FF4088?style=flat-square&logo=hugo&logoColor=white)](https://www.nathanswe.com)
+[![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://www.nathanswe.com/blog)
