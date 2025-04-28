@@ -83,6 +83,6 @@ A .NET library for seamless integration with OpenAI and Anthropic APIs
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathansanchez239)
 [![Website](https://img.shields.io/badge/-Website-FF4088?style=flat-square&logo=hugo&logoColor=white)](https://www.nathanswe.com)
 [![Blog](https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white)](https://www.nathanswe.com/blog)
