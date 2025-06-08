@@ -79,7 +79,7 @@ A .NET library for seamless integration with OpenAI and Anthropic APIs
 
 ## 📝 Latest Blog Post
 
-[Building Go-Insight: A Distributed Observability System in Go](https://www.nathanswe.com/blog/building-go-insight)
+[I Built an Observability Platform in Go Because Datadog is Overkill](https://www.nathanswe.com/blog/go-insight-observability-platform)
 
 ## 🔗 Connect With Me
 
